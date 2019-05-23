@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2LQ-Rk-9gx"; */
+"2LQ-Rk-9gx.text" = "Label";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "6YT-q1-H4v"; */
+"6YT-q1-H4v.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "6gK-iI-R7B"; */
+"6gK-iI-R7B.title" = "Title";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "PvB-nq-fHC"; */
+"PvB-nq-fHC.title" = "Root View Controller";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fiL-d8-fxs"; */
+"fiL-d8-fxs.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Take Picture"; ObjectID = "iXN-oR-13B"; */
+"iXN-oR-13B.normalTitle" = "!!!!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kXC-fh-pqf"; */
+"kXC-fh-pqf.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Choose Picture"; ObjectID = "yOS-aM-uJZ"; */
+"yOS-aM-uJZ.normalTitle" = "!!!";

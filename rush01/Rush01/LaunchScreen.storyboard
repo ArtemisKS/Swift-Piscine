@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina5_9" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Zapfino.ttf">
+            <string>Zapfino</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="photo-1545328805-926d6a0950ca" translatesAutoresizingMaskIntoConstraints="NO" id="AK7-wD-cAb">
+                                <rect key="frame" x="0.0" y="44" width="375" height="734"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="by AK" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iJf-6V-Dzo">
+                                <rect key="frame" x="117" y="366" width="140" height="90"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="140" id="Qao-9V-aqm"/>
+                                    <constraint firstAttribute="height" constant="90" id="R7k-d6-Vvf"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Zapfino" family="Zapfino" pointSize="25"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="AK7-wD-cAb" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="4xt-xi-toS"/>
+                            <constraint firstItem="iJf-6V-Dzo" firstAttribute="centerY" secondItem="AK7-wD-cAb" secondAttribute="centerY" id="CjY-eM-S45"/>
+                            <constraint firstItem="AK7-wD-cAb" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="Ea5-rs-1R8"/>
+                            <constraint firstItem="iJf-6V-Dzo" firstAttribute="centerX" secondItem="AK7-wD-cAb" secondAttribute="centerX" id="GEG-GC-Sq8"/>
+                            <constraint firstItem="AK7-wD-cAb" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="RKJ-2k-l5j"/>
+                            <constraint firstItem="AK7-wD-cAb" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="hOi-Dz-IXM"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52" y="374.66266866566718"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="photo-1545328805-926d6a0950ca" width="1000" height="1500"/>
+    </resources>
+</document>

@@ -1,0 +1,21 @@
+PODS:
+  - akupriia2019 (0.1.0)
+
+DEPENDENCIES:
+  - akupriia2019 (from `https://github.com/ArtemisKS/akupriia2019.git`)
+
+EXTERNAL SOURCES:
+  akupriia2019:
+    :git: https://github.com/ArtemisKS/akupriia2019.git
+
+CHECKOUT OPTIONS:
+  akupriia2019:
+    :commit: a213336256518f42dbdf8bff7411728d59522893
+    :git: https://github.com/ArtemisKS/akupriia2019.git
+
+SPEC CHECKSUMS:
+  akupriia2019: a2f76f8fbb6d6399768a22229e3394862fc88a85
+
+PODFILE CHECKSUM: b7949090750a00c832da8b4517975f3e17fa4f98
+
+COCOAPODS: 1.5.3

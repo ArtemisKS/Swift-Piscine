@@ -1,0 +1,28 @@
+{
+  "name": "akupriia2019",
+  "version": "0.1.0",
+  "summary": "This pod allows you to add articles and manage them.",
+  "description": "A small pod to manage articles. Created for d08 of Swift iOS Pool.",
+  "homepage": "https://github.com/ArtemisKS/akupriia2019.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ArtemisKS": "Artemkupriyanets@yahoo.com"
+  },
+  "source": {
+    "git": "https://github.com/ArtemisKS/akupriia2019.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "akupriia2019/Classes/**/*.{h,m,swift,xcdatamodeld}",
+  "resources": "akupriia2019/Classes/**/*.{xcdatamodeld}",
+  "frameworks": [
+    "UIKit",
+    "MapKit",
+    "CoreData"
+  ]
+}

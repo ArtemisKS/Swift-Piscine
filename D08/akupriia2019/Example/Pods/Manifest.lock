@@ -1,0 +1,27 @@
+PODS:
+  - akupriia2019 (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - akupriia2019 (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  akupriia2019:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  akupriia2019: a34e6c905b946c2c7a7604fef793252686456f44
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 6b9d82dab16d8962328213eb6348a6c25a2a0e94
+
+COCOAPODS: 1.5.3

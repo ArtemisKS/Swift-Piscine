@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>UNIT Factory</string>
+		<key>desc</key>
+		<string>The famous coding school</string>
+		<key>latitude</key>
+		<string>50.468981</string>
+		<key>longitude</key>
+		<string>30.462142</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Camp Nou</string>
+		<key>desc</key>
+		<string>Home stadium of the greatest sport club, FC Barcelona, known simply as the Club</string>
+		<key>latitude</key>
+		<string>41.380755</string>
+		<key>longitude</key>
+		<string>2.122827</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Colosseo</string>
+		<key>desc</key>
+		<string>Greatest antique amphitheatre</string>
+		<key>latitude</key>
+		<string>41.890218</string>
+		<key>longitude</key>
+		<string>12.492199</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Eiffel tower</string>
+		<key>desc</key>
+		<string>The Iron Lady, Mecca of Parisian Tourism</string>
+		<key>latitude</key>
+		<string>48.858525</string>
+		<key>longitude</key>
+		<string>2.294481</string>
+	</dict>
+</array>
+</plist>

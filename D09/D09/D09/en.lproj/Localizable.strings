@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  day09
+
+  Created by Andriy GORDIYCHUK on 1/26/19.
+  Copyright © 2019 Andriy GORDIYCHUK. All rights reserved.
+*/
+
+"Diary" = "Diary";
+"We won't let you in otherwise ;)" = "We won't let you in otherwise ;)";
+"NOT AUTHORIZED" = "NOT AUTHORIZED";
+"New article" = "New article";
+"Edit article" = "Edit article";

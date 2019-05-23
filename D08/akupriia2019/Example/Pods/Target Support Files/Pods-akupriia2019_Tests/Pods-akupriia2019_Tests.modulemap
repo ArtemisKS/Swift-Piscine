@@ -1,0 +1,6 @@
+framework module Pods_akupriia2019_Tests {
+  umbrella header "Pods-akupriia2019_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

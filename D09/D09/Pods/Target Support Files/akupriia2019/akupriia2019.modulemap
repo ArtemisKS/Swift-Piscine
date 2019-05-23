@@ -1,0 +1,6 @@
+framework module akupriia2019 {
+  umbrella header "akupriia2019-umbrella.h"
+
+  export *
+  module * { export * }
+}
