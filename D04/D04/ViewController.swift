@@ -2,6 +2,7 @@ import UIKit
 
 class ViewController: UIViewController, APITwitterDelegate, UITableViewDataSource, UITableViewDelegate{
     
+	//MARK: private keys, need to be hidden
 //    fileprivate let API_KEY = "P0fvFRi2jNl7OoRhIsDK3waUq"
 //    fileprivate let API_SECRET = "a85vwrySlBIsyCuto33AtwPVxa1asvzw4ocIjVwAQtfEFoDazd"
     let consumerKey : String = "iA8rFDKtJnbjCRwIRN9rkjmDA"
